@@ -4,7 +4,13 @@ AWS가 제공하는 '심플아이콘'
 
 AMI 아마존 머신 이미지 : 즉시 사용이 가능한 상태의 OS 및 패키지의 조합
 
-### 과금
+#### Scale
+
+<img src = "../images/scale.pnh">
+
+
+
+#### 과금
 
 - EC2 인스턴스는 중지해도 유지하는 용량만큼 청구됨.
 - EC2 인스턴스 설정 화면에서 Terminate -> Enable termination protection을 무효화 시킨 후 삭제
@@ -15,7 +21,11 @@ AMI 아마존 머신 이미지 : 즉시 사용이 가능한 상태의 OS 및 패
 
 
 
-### 리소스를 유연하게 변경하기
+#### 리소스를 유연하게 변경하기
+
+
+
+
 
 'Instance Setting' -> 'Change Instane Type' ....
 
