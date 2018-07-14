@@ -6,7 +6,7 @@ AMI 아마존 머신 이미지 : 즉시 사용이 가능한 상태의 OS 및 패
 
 #### Scale
 
-<img src = "../images/scale.pnh">
+<img src = "../images/scale.png">
 
 
 
